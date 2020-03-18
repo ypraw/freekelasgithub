@@ -45,6 +45,7 @@ Untuk menuliskan data diri anda, gunakan format markdown, jika anda belum menget
 ### N
 ### O
 ### P
+  * Piscki F. Pratama [Github](https://github.com/pisckipratama) (Domisili: Bandung, Jabar)
 ### Q
 ### R
   * Rizqi Nur Assyaufi [bandithijo.com](https://bandithijo.com) (Domisili : Balikpapan)
